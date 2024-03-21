@@ -14,4 +14,4 @@ for x in range(1, d20):
 avg = sum / d20
   
 print("The sum of your roll(s): " + str(sum))
-print "The average of your roll(s): %.1f" % avg
+print("The average of your roll(s): %.1f" % avg)
