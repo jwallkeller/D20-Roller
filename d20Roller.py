@@ -1,6 +1,3 @@
-
-### Use this space to try out ideas and free code ###
-
 import random
 
 d20 = int(input("How many d20s? "))
